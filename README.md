@@ -19,7 +19,7 @@ _Run node index.js to begin
 _Answer the questions about your prohect
 
 **In the terminal answer the question**
-![picture](rd.jpeg)
+![alt](rd.jpeg)
 
 
 [Click here to access the Github repository](https://github.com/Snubia/ReadMe.git)
@@ -32,6 +32,8 @@ _Answer the questions about your prohect
 Contact me to provide feedback or suggestions 
 
 [Linkedin](https://www.linkedin.com/in/sandrine-nubia-975aa2172/)
+
+
 [Email](nunubabila@gmail.com)
 
 
