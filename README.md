@@ -18,8 +18,9 @@ _Run node index.js to begin
 
 _Answer the questions about your prohect
 
-**In the terminal answer the question**
-![alt text](rd.jpeg)
+**Demo**
+
+![Questions asked in the terminal to generate the readme](rd.jpeg)
 
 
 [Click here to access the Github repository](https://github.com/Snubia/ReadMe.git)
