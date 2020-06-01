@@ -23,6 +23,9 @@ _Answer the questions about your prohect
 ![Questions asked in the terminal to generate the readme](demo.jpeg)
 
 
+![Questions asked in the terminal to generate the readme](demo.jpeg)
+
+
 [Click here to access the Github repository](https://github.com/Snubia/ReadMe.git)
 
 
